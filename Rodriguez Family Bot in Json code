@@ -1,0 +1,30 @@
+{
+  "username": "Rodriguez Family Bot",
+  "avatar_url": "",
+  "content": " ",
+  "embeds": [
+    {
+      "title": "**Семейное Охранное Агенство Rodriguez Розыскивает дальних родственников.**",
+      "color": 15077135,
+      "description": "***Rodriguez FamQ Проводит набор в свои ряды***\n\n*Здесь вас будут ждать*\n\n```Море контента и куча актива```\n\n```Большой и дружный коллектив```\n\n```Большой и продуманный семейный канал в discord```\n\n```Это новая семья, в которой именно ты можешь стать высоким рангом!```",
+      "timestamp": "",
+      "url": "",
+      "author": {
+        "name": "Оставить заявку на вступление*тык*",
+        "url": "https://forms.gle/2ERdUX4jRXsumAMj6"
+      },
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/824247848726953984/880441251076390953/8XxM.gif"
+      },
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/attachments/824247848726953984/880440326618222672/driving-accelerate.gif"
+      },
+      "footer": {
+        "text": "По всем вопросам и предложениям | Poseidon#6103",
+        "icon_url": ""
+      },
+      "fields": []
+    }
+  ],
+  "components": []
+}
