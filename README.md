@@ -1,1 +1,5 @@
-# discordwebhookrodrig
+Заходим на сайт https://discord.club/dashboard/
+Кликаем по начальному коду под "Json code" и нажимаем ctrl + a
+Весь начальный код выделиться, дальше вставляем скопированный текст из Rodriguez Family Bot in Json code под "Json code" комбинацией клавиш ctrl + v.
+Прокручиваем колесико мышки вверх, находим строку "Webhook url", туда вставляем url адрес вебхука.
+Нажимаем на кнопку "Send message" и готово, сообщение отправлено.
